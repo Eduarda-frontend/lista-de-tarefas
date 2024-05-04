@@ -37,6 +37,7 @@ button{
 
 main section form{
     margin-bottom: 32px;
+    display: none;
 }
 
 ul div{
